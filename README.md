@@ -1,16 +1,40 @@
-## Hi there 👋
+### Aspiring Game Developer
 
-<!--
-**SaltyMaud/SaltyMaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in game design and realizing those designs in my own projects.
 
-Here are some ideas to get you started:
+Currently studying game programming at Taitotalo, and not looking for work or new projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- Game development fundamentals using Unity and C#
+- Prototyping and testing
+- Familiarity with version control using Git
+- Supporting experience in graphic design, primarily with Photoshop and Illustrator
+
+---
+
+## Projects
+
+### Alien Ballz
+
+A sci-fi themed 3D Suika-style game.
+
+Developed the core gameplay functionality.
+
+[Itch.io](https://saltymaud.itch.io/project-alien-balls?password=knDkF3FVD5J66An)
+
+### All Humans Must Die
+
+A 2D tower defence game.
+
+Developed the wave manager system, worked on game design and balance, and contributed to various other systems.
+
+[Itch.io](https://six-astronauts.itch.io/allhumansmustdie)
+
+---
+
+## Contact
+
+The best way to reach me is via Discord: `saltymaud`
