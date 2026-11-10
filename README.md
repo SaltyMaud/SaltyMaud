@@ -23,7 +23,7 @@ A sci-fi themed 3D Suika-style game.
 
 Developed the core gameplay functionality.
 
-[Itch.io](https://saltymaud.itch.io/project-alien-balls?password=knDkF3FVD5J66An)
+[Itch.io](https://saltymaud.itch.io/alien-ballz?password=knDkF3FVD5J66An)
 
 ### All Humans Must Die
 
