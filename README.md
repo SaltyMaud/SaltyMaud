@@ -1,17 +1,13 @@
 ### Aspiring Game Developer
 
-Interested in game design and realizing those designs in my own projects.
-
-Currently studying game programming at Taitotalo, and not looking for work or new projects.
+Building little utility projects for myself and looking forward to working on game projects.
 
 ---
 
-## Skills
+## Familiar with:
 
-- Game development fundamentals using Unity and C#
-- Prototyping and testing
-- Familiarity with version control using Git
-- Supporting experience in graphic design, primarily with Photoshop and Illustrator
+- Unity, C# and AI assisted development
+- Graphic design (photoshop, illustrator)
 
 ---
 
